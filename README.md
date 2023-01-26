@@ -1,6 +1,6 @@
-# cuenta_huesos
-Cuenta Huesos 
-Huesitos para reirse contados en los pasos a prod 
+# Cuenta Huesos
+
+Huesitos para reirse *contados en los pasos a prod* 
 
 - Los hippies no orinan: hacen peace.
 - Qué hace una vaca con los ojos cerrados? Leche concentrada.
@@ -11,12 +11,12 @@ Huesitos para reirse contados en los pasos a prod
 - ¿De dónde vienen los hámster? De Hamsterdam.
 - Papá, papá, ¿puedo ir al cine? Sí, pero no entres.
 - ¡Estás obsesionado con la comida! No sé a que te refieres croquetamente.
-- el profersor de programación llego tarde a la clase por se quedo sintaxis.
-- el profesor de lenguaje que murio desangria.
+- el profersor de programación llego tarde a la clase por que se quedo sintaxis.
+- habia una vez un profesor de lenguaje que murio desangria.
 - tengo sueño!! -- Ojala se le cumpla :) 
 - Que le dice un arbol a otro ? ¡Que pasa tronco!
 - El curita le dice a otro ¿Que Vamos por monjitas?
-- Muzulman!!! el eroe anti-americano
+- Muzulman!!! el heroe anti-americano
 - Van 2 videntes en una moto y se cae el del médium.
 - ¿Qué le dice un semáforo en amarillo a los coches? "No me miren, que me estoy cambiando".
 - ¿Qué le dice un jaguar a otro jaguar? “Jaguar you”.
@@ -28,7 +28,6 @@ Huesitos para reirse contados en los pasos a prod
 - ¿Qué es rojo y malo para tus dientes? Un ladrillo.
 - ¿Qué hay peor que encontrarse un gusano en una manzana? Encontrarse medio.
 - Que es verde por fuera rojo por dentro y atravieza murallas? la sandia fantasma.
-- ¿Qué hay peor que encontrarse un gusano en una manzana? Encontrarse medio.
 - ¿Por qué no pueden hablar los dinosaurios? Porque están muertos.
 - Toc toc.
   - ¿Quién es?
@@ -67,7 +66,7 @@ Huesitos para reirse contados en los pasos a prod
   - Look
   - ¿Podría utilizarlo en una frase?
   - Look, soy tu padre.
--¿Nivel de Inglés?
+- ¿Nivel de Inglés?
   - Alto
   - ¿Cómo se dice cenizas?
   - Ashes
@@ -86,14 +85,14 @@ Huesitos para reirse contados en los pasos a prod
   - Moon
   - Hágame una frase
   - Mi hermano es policía moon-icipal
-  - Ya le llamaremos.
+    - Ya le llamaremos.
 - ¿Nivel de Inglés?
   - Alto
   - Traduzca “pájaro”
   - Bird
   - ¿Puede usarlo en una frase?
   - Happy bird day to youuuuuuu
-  - ¡Contratado!
+    - ¡Contratado!
 # Crueles
 
 - ¿Por qué se suicidó Hitler? Porque le llegó la factura del gas.
