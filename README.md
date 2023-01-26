@@ -114,5 +114,6 @@ Huesitos para reirse *contados en los pasos a prod*
 - No es lo mismo la tormenta se avecina, que la vecina se atormenta.
 - No es lo mismo, vivir en la calle del medio que vivir en medio de la calle.
 - No es lo mismo decir me meto a un baño turco, que un turco te la meta en el baño.
-- No es lo mismo el rio de missisipi que me hice pipi en el rio
+- No es lo mismo el rio de missisipi que me hice pipi en el rio :man_playing_water_polo:
+- 
  
