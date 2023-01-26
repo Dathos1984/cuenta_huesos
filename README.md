@@ -1,5 +1,5 @@
 # Cuenta Huesos
-# .....una vez vi un camaleon... era un mal camaleon ...
+# ... Una vez vi un Camaleon... era un mal Camaleon ...
 
 Huesitos para reirse *contados en los pasos a prod* 
 
