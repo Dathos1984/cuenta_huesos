@@ -2,8 +2,14 @@
 # ... Una vez vi un Camaleon... era un mal Camaleon ...
 
 Huesitos para reirse *contados en los pasos a prod* 
-
-- Los hippies no orinan: hacen peace.
+- Me da un café con leche corto. Se me ha roto la máquina, cambio.
+- ¿Qué le dice la foca a su madre? I love you, mother foca.
+- ¿Por qué está feliz la escoba? - Porque ba-rriendo.
+- Había una vez un niño tan, tan, tan despistado que... ¡da igual, me he olvidado del chiste!
+- ¿Qué le dice un espagueti a otro? ¡Oye, mi cuerpo pide salsa!
+- ¿Te cuento un chiste verde rápido? Una lechuga en una moto
+- Los hippies no orinan: hawcen peace.
+- ¿Qué le dice un chinche a una chinche? Te amo chincheramente.
 - Qué hace una vaca con los ojos cerrados? Leche concentrada.
 - ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
 - Qué hace una abeja en un gimnasio? Zumba.
@@ -35,6 +41,12 @@ Huesitos para reirse *contados en los pasos a prod*
   - Talandas.
   - ¿Qué Talandas?
   - Yo muy bien, ¿y tú?
+- Toc toc.
+  - ¿Quién es?
+  - Abraham
+  - Primero dime, ¿quién eres?
+  -¡Abraham!
+  - No, hasta que me digas quién eres.
 - ¿Qué le dice una taza a otra?
   - ¿Qué taza ciendo?
 - ¿Cuantos ingenieros de sistema se necesitan para cambiar una bombilla de luz?
