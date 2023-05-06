@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Chistes</title>
+    <style>
+    body {
+            background-color: #555555 ;
+            font-family: Arial, sans-serif;
+            color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 50px;
+    }
+ h2 {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  h3 {
+  color: #FFFFFF;
+  background-color: #333333;
+  padding: 10px;
+  border-radius: 5px;
+}
+   .tab {
+      overflow: hidden;
+      background-color: #F8F8F8;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .tab button {
+      background-color: inherit;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 10px 20px;
+      transition: 0.3s;
+    }
+
+    .tab button:hover {
+      background-color: #ddd;
+    }
+
+    .tab button.active {
+      background-color: #F5F5F5;
+    }
+    .tabcontent {
+      display: none;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-top: none;
+      border-radius: 0 0 4px 4px;
+    }
+    .chiste-box {
+      margin-bottom: 20px;
+      padding: 10px;
+      color: #000000;
+      background-color: #F5F5F5;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    </style>
+
+<script>
+  function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
+</head>
+<body>
+<h1>Cuenta Huesos</h1>
+<h2>Huesitos para reirse </h2>
+<h3>Contados en los pasos a prod </h3>
+<div class="tab">
+    <button class="tablinks" onclick="openTab(event,'Aleatorios')">Aleatorios</button>
+    <button class="tablinks" onclick="openTab(event,'Ingles')">Ingles</button>
+    <button class="tablinks" onclick="openTab(event,'Crueles')">Crueles</button>
+    <button class="tablinks" onclick="openTab(event,'Vampiros')">Vampiros</button>
+    <button class="tablinks" onclick="openTab(event,'NoEsLoMismo')">No es lo mismo</button>
+    <button class="tablinks" onclick="openTab(event,'English')">English</button>
+</div>
+<div id="Aleatorios" class="tabcontent">
+   <div class="chiste-box">
+    <p>¿Por qué los pájaros no usan Facebook?</p>
+    <p>Porque ya tienen Twitter.</p>
+</div>
+<div class="chiste-box">
+  <p>Me da un café con leche.... corto.</p>
+  <p> Se me ha roto la máquina.... cambio.</p>
+</div>
+<div class="chiste-box"> <p>¿Qué le dice la foca a su madre? </p><p>I love you, mother foca.</p></div>
+<div class="chiste-box"> <p>¿Por qué está feliz la escoba?</p><p> Porque ba-rriendo.</p></div>
+<div class="chiste-box"> <p>Había una vez un niño tan, tan, tan despistado que... ¡da igual, me he olvidado del chiste!</p></div>
+<div class="chiste-box"> <p>¿Qué le dice un espagueti a otro?</p><p> ¡Oye, mi cuerpo pide salsa!</p></div>
+<div class="chiste-box"> <p>¿Te cuento un chiste verde rápido?</p><p> Una lechuga en una moto</p></div>
+</div>
+<div id="Ingles" class="tabcontent">
+    <h2>Chiste 2:</h2>
+    <p>¿Qué hace una abeja en el gimnasio?</p>
+    <p>Zum-ba.</p>
+</div>
+
+<div id="Crueles" class="tabcontent">
+    <h2>Chiste 3:</h2>
+    <p>¿Cómo se llama el campeón de buceo japonés?</p>
+    <p>Tokofondo.</p>
+</div>
+</body>
+</html>

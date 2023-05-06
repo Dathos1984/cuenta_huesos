@@ -8,7 +8,7 @@ Huesitos para reirse *contados en los pasos a prod*
 - Había una vez un niño tan, tan, tan despistado que... ¡da igual, me he olvidado del chiste!
 - ¿Qué le dice un espagueti a otro? ¡Oye, mi cuerpo pide salsa!
 - ¿Te cuento un chiste verde rápido? Una lechuga en una moto
-- Los hippies no orinan: hawcen peace.
+- Los hippies no orinan: hacen peace.
 - ¿Qué le dice un chinche a una chinche? Te amo chincheramente.
 - Qué hace una vaca con los ojos cerrados? Leche concentrada.
 - ¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.
@@ -127,5 +127,11 @@ Huesitos para reirse *contados en los pasos a prod*
 - No es lo mismo, vivir en la calle del medio que vivir en medio de la calle.
 - No es lo mismo decir me meto a un baño turco, que un turco te la meta en el baño.
 - No es lo mismo el rio de missisipi que me hice pipi en el rio :man_playing_water_polo:
-- 
- 
+
+# English 
+- Which letter of the alphabet has the most water? the "c"
+- Why did the teacher wear sunglasses to school? Because her/his students were so bright.
+- Why did the teacher jump into the pool? He wanted to test the water.
+- What’s the smartest insect? A spelling bee!
+- What does a storm cloud wear under his raincoat? Thunderwear.
+- What do you call a couple of chimpanzees sharing an Amazon account? PRIME-mates.

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .tab {
+      overflow: hidden;
+      background-color: #333333;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .tab button {
+      background-color: inherit;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 10px 20px;
+      transition: 0.3s;
+    }
+
+    .tab button:hover {
+      background-color: #ddd;
+    }
+
+    .tab button.active {
+      background-color: #ccc;
+    }
+
+    .tabcontent {
+      display: none;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-top: none;
+      border-radius: 0 0 4px 4px;
+    }
+    .chiste-box {
+      margin-bottom: 20px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Chistes</h1>
+
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'chiste1')">Chiste 1</button>
+  <button class="tablinks" onclick="openTab(event, 'chiste2')">Chiste 2</button>
+  <button class="tablinks" onclick="openTab(event, 'chiste3')">Chiste 3</button>
+</div>
+
+<div id="chiste1" class="tabcontent">
+  <div class="chiste-box">
+    <h3>Chiste 1</h3>
+    <p>Chiste 1 - Parte 1</p>
+    <p>Chiste 1 - Parte 2</p>
+    <p>Chiste 1 - Parte 3</p>
+  </div>
+    <div class="chiste-box">
+    <h3>Chiste 1</h3>
+    <p>Chiste 1 - Parte 1</p>
+    <p>Chiste 1 - Parte 2</p>
+    <p>Chiste 1 - Parte 3</p>
+  </div>
+</div>
+
+<div id="chiste2" class="tabcontent">
+  <h3>Chiste 2</h3>
+  <p>Chiste 2 - Parte 1</p>
+  <p>Chiste 2 - Parte 2</p>
+  <p>Chiste 2 - Parte 3</p>
+</div>
+
+<div id="chiste3" class="tabcontent">
+  <h3>Chiste 3</h3>
+  <p>Chiste 3 - Parte 1</p>
+  <p>Chiste 3 - Parte 2</p>
+  <p>Chiste 3 - Parte 3</p>
+</div>
+
+<script>
+  function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
+
+</body>
+</html>
