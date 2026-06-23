@@ -1,6 +1,18 @@
 {
   "Aleatorios": [
     {
+    "lineas": [
+        "¿Qué hace un perro con un taladro?",
+        "Madre mía, ¡un perro que sabe usar herramientas! 🐕⚙️"
+    ]
+    },
+    {
+    "lineas": [
+        "¿Qué le dice una impresora a otra?",
+        "¿Esa hoja es tuya o es una impresión mía? 🖨️"
+    ]
+    },    
+    {
       "lineas": [
         "¿Por qué un mago no sería bueno en el boxeo? ",
         "Porque sería el magolpeado.",
@@ -299,6 +311,20 @@
   ],
   "Ingles": [
     {
+    "lineas": [
+        "¿Nivel de inglés? 😜",
+        "Altísimo.",
+        "¿Cómo se dice 'repollo'?",
+        "Re-chicken. 🐔"
+    ]
+    },
+    {
+    "lineas": [
+        "¿Cómo se dice 'un zapato en un árbol' en inglés?",
+        "A shoe-co. 👟🌳"
+    ]
+    },    
+    {
       "lineas": [
         "¿Trabajo estable? 😜",
         "No, mesa es table. Trabajo es work.😜"
@@ -392,6 +418,18 @@
   ],
   "Crueles": [
     {
+    "lineas": [
+        "Mi billetera es como una cebolla... 🧅",
+        "Cada vez que la abro, me dan ganas de llorar. 💸"
+    ]
+    },
+    {
+    "lineas": [
+        "¿Cuál es la parte más dura de un vegetal?",
+        "La silla de ruedas. 💀"
+    ]
+    },
+    {
       "lineas": [
         "¿Por qué se suicidó Hitler?💀",
         " Porque le llegó la factura del gas."
@@ -416,6 +454,19 @@
     }
   ],
   "Vampiros": [
+    {
+    "lineas": [
+        "¿A qué se dedica un vampiro en el banco?",
+        "A controlar las cuentas de sangre. 🧛‍♂️🏦"
+    ]
+    },
+    {
+    "lineas": [
+        "¿Por qué los vampiros no entran a las panaderías?",
+        "Porque les asusta el pan de ajo... y... 🧛‍♂️",
+        "¡se murió! 💀"
+    ]
+    },
     {
       "lineas": [
         "¿Qué hace un vampiro conduciendo un tractor? Er",
@@ -458,6 +509,18 @@
     }
   ],
   "NoEsLoMismo": [
+    {
+    "lineas": [
+        "No es lo mismo las lunas del coche, 🚗",
+        "que colarse en las dunas."
+    ]
+    },
+    {
+    "lineas": [
+        "No es lo mismo una pelota negra, ⚽",
+        "que una negra en pelota."
+    ]
+    },    
     {
       "lineas": [
         "No es lo mismo un pájaro de alto vuelo,🎈",
@@ -508,6 +571,18 @@
     }
   ],
   "English": [
+    {
+    "lineas": [
+        "Why did the computer go to the doctor? 🖥️",
+        "Because it had a virus! 🔮"
+    ]
+    },
+    {
+    "lineas": [
+        "What do you call a sleeping dinosaur? 🦕",
+        "A dino-snore! 💤"
+    ]
+    },
     {
       "lineas": [
         "Which letter of the alphabet has the most water?🧪",
